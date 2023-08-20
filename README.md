@@ -33,7 +33,7 @@ Feel free to explore the code and customize the portfolio to suit your own proje
 If you have any questions or would like to connect, you can reach me at:
 
 - Email: [sabannab100@gmail.com](mailto:sabannab100@gmail.com)
-- LinkedIn: [Sabanna]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sabanna-652a81171/))
+- LinkedIn: [Sabanna]([https://www.linkedin.com/in/sabanna-652a81171/])
 
 Thank you for visiting my portfolio repository!
 
